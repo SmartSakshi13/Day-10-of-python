@@ -1,0 +1,17 @@
+oop - way to structure code using object
+
+In Robotics:
+	Robot is a object
+	Motor is an object
+	Sensor is an object
+	PID controller is an object
+
+oop makes your code clean and modular
+
+=========================================================================================================================================================
+
+A class = blueprint
+An object = actual item created from blueprint
+
+=========================================================================================================================================================
+
