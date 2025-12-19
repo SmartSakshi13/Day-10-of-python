@@ -1,0 +1,5 @@
+class temperature:
+	def __init__(self,temperature):
+		self.temperature = temperature
+
+	def 
